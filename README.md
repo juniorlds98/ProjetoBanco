@@ -8,3 +8,5 @@
 - [✓] Itaú
 
 Fico à disposição para sanar quaisquer dúvidas sobre o projeto e fico aberto a sugestões e melhorias, poderá me encontrar mais facilmente em meu email juniorlds.98@gmail.com
+
+Tenham um ótimo estudo!
